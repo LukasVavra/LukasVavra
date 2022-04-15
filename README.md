@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LukasVavra
 - 👀 I’m interested in Embedded systems
-- 🌱 I’m currently learning Python, Docker, DevOps
-- 💞️ I’m looking to collaborate on Python projects
+- 🌱 I’m currently learning C++
 - 📫 Email: lucovavra@gmail.com
 
 <!---
